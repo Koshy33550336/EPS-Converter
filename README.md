@@ -21,8 +21,8 @@ PNG・JPEG・HEIC画像を，TexWorksで利用されるEPS形式に一括変換�
 - PyInstaller（インストーラ作成）
 
 ### インストール方法
-Windows用インストーラを利用してください。  
-詳細な手順は以下を参照してください。
+最新版のインストーラは Releases からダウンロードできます． 
+詳細な手順は以下を参照してください．
 
 📄 **[DISTRIBUTION_GUIDE.md](./DISTRIBUTION_GUIDE.md)**
 
